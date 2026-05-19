@@ -1,0 +1,250 @@
+{
+  "users": {
+    "123": {
+      "password": "123",
+      "profile": {
+        "age": 11,
+        "height": 123,
+        "weight": 95.0,
+        "gender": "male",
+        "completed": true,
+        "email": "",
+        "phone": "",
+        "country": "",
+        "bmi": 62.79,
+        "bmi_category": "Obese",
+        "daily_calories": 1948.75,
+        "current_weight": 95.0,
+        "target_weight": null,
+        "goal": null
+      },
+      "groceries": [
+        {
+          "id": "1628c85b-87a0-42dd-97da-18b1c27140dc",
+          "name": "image.",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:56"
+        },
+        {
+          "id": "5363fa12-1166-4628-bd38-3eb60341f8d9",
+          "name": "apple",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "b0f66212-a7ed-4c41-8722-1bd22f9dfd4b",
+          "name": "potato",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "fcbed382-5ed2-4ccd-8f79-ca59b531c5bc",
+          "name": "tomato",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "47981d12-f2d4-429b-a88d-6ea5b858b412",
+          "name": "cucumber",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "78dc143b-3a85-4a50-8206-03ab53fcd220",
+          "name": "corn",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "b05985c9-25a5-4254-93de-5062684b8be3",
+          "name": "eggplant",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "6928b82f-dcfd-40fc-b3c6-f908d47479d3",
+          "name": "pepper",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "e6b4f8ae-2b91-452d-bda8-06f2784176a5",
+          "name": "strawberry",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "72043c1b-654d-4845-b755-08e531063b3b",
+          "name": "orange",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "a6860e7f-7ad3-40e9-a387-71efc884be23",
+          "name": "lettuce",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "68fb4d87-de5d-438a-b974-2b52470c08b8",
+          "name": "cauliflower",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "db47094a-3c2b-4f37-9d37-9788b40550e7",
+          "name": "bean",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "06e64444-4601-4dcc-8d77-259aea300fc2",
+          "name": "cabbage",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "c89ffb0f-6692-44b9-aaab-329f8729a8f6",
+          "name": "broccoli",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "fcd126c8-3cd6-4d01-8630-a84fba0a7d90",
+          "name": "onion",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        },
+        {
+          "id": "86e5fed1-9c2b-46a6-a8cf-b4195761ab6d",
+          "name": "celery",
+          "quantity": null,
+          "unit": null,
+          "added_at": "19/05 17:57"
+        }
+      ],
+      "images": [
+        {
+          "id": "1ead96db-fb0c-4531-81c7-0074145c3324",
+          "image_path": "static/uploads\\b62a1105-4c1e-4fcf-9342-971d10c33b3d.jpg",
+          "detected_items": [
+            "apple",
+            "potato",
+            "tomato",
+            "cucumber",
+            "corn",
+            "eggplant",
+            "pepper",
+            "strawberry",
+            "orange",
+            "lettuce",
+            "cauliflower",
+            "bean",
+            "cabbage",
+            "broccoli",
+            "onion",
+            "celery"
+          ],
+          "uploaded_at": "19/05 17:57"
+        }
+      ],
+      "weight_history": [
+        {
+          "id": "3f78ae56-c6d2-4e3b-a9ab-375722484277",
+          "date": "19/05 17:55",
+          "weight": 100.0,
+          "notes": "",
+          "bmi": 66.1
+        },
+        {
+          "id": "7c9d6d68-1dfb-41aa-9fbf-e6c4cd944872",
+          "date": "19/05 17:56",
+          "weight": 98.0,
+          "notes": "",
+          "bmi": 64.78
+        },
+        {
+          "id": "94d4d3b2-4ac8-41ed-8210-1e7714f659cb",
+          "date": "19/05 17:56",
+          "weight": 99.0,
+          "notes": "",
+          "bmi": 65.44
+        },
+        {
+          "id": "469f00a6-d2d7-4ccc-9d61-03f607168a53",
+          "date": "19/05 17:56",
+          "weight": 97.0,
+          "notes": "",
+          "bmi": 64.12
+        },
+        {
+          "id": "c31bb1c8-b964-470c-90f5-be47cf25e6e8",
+          "date": "19/05 17:56",
+          "weight": 98.0,
+          "notes": "",
+          "bmi": 64.78
+        },
+        {
+          "id": "b73df518-7e7b-44fb-b2d7-c34134c9f6dc",
+          "date": "19/05 17:56",
+          "weight": 96.0,
+          "notes": "",
+          "bmi": 63.45
+        },
+        {
+          "id": "e0e3d4f8-785f-46b4-94c0-cbac7763b898",
+          "date": "19/05 17:56",
+          "weight": 95.0,
+          "notes": "",
+          "bmi": 62.79
+        }
+      ],
+      "goals": {
+        "active_goal": null,
+        "goal_start_date": null,
+        "target_date": null,
+        "weekly_target": null
+      },
+      "milestones": [
+        {
+          "id": "first_log",
+          "title": "First Step",
+          "description": "Logged your first weight",
+          "icon": "flag",
+          "date": "19/05 17:55"
+        },
+        {
+          "id": "week_streak",
+          "title": "Weekly Warrior",
+          "description": "7 consecutive days of logging",
+          "icon": "calendar-check",
+          "date": "19/05 17:56"
+        },
+        {
+          "id": "5kg_change",
+          "title": "5kg lost!",
+          "description": "Successfully lost 5 kilograms",
+          "icon": "weight-scale",
+          "date": "19/05 17:56"
+        }
+      ],
+      "chat_history": []
+    }
+  }
+}
